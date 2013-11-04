@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="5dp" >
+
+    <fragment
+        android:id="@+id/fragment_header"
+        android:name="de.duester.anywayanyday.fragment.FragmentHeader"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <fragment
+        android:id="@+id/fragment_view_pager"
+        android:name="de.duester.anywayanyday.fragment.FragmentViewPager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>

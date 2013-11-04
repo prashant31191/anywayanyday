@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AnyWayAnyDay</string>
+    <string name="txtLoading">Загружаю данные&#8230;</string>
+    <string name="txtProcessing">Обрабатываю данные&#8230;</string>
+
+</resources>
